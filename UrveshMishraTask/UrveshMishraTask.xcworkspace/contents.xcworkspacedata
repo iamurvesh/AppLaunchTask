@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/urveshmishra/Downloads/UrveshMishraTask/ApplaunchTask.xcodeproj">
+      location = "group:UrveshMishraTask.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
